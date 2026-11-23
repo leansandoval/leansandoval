@@ -145,7 +145,6 @@ Ingeniero en Informática, actualmente trabajando como Desarrollador Full Stack.
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-## Github Stats  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leansandoval&custom_title=Estad%C3%ADsticas&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=leansandoval&custom_title=Estad%C3%ADsticas&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=vue-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent)
