@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" width="300">
-</div>
-
 <h1 align="center">
   Hola! Soy Leandro <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
 </h1>
@@ -35,11 +31,17 @@ Ingeniero en Informatica, actualmente trabajando como Desarrollador Full Stack /
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![SQL Server](https://shields.io/badge/Microsoft_SQL_Server-inactive?logo=sqlserver)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+
+
 
 ## Tech Stack
 
+[![Godot Engine](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](#)
 ![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white) 
 ![nVIDIA](https://img.shields.io/badge/cuda-%23000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![JUnit5](https://img.shields.io/badge/JUnit5-%23f5f5f5.svg?style=for-the-badge&logo=junit5&logoColor=dc524a)
@@ -57,7 +59,6 @@ Ingeniero en Informatica, actualmente trabajando como Desarrollador Full Stack /
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/openvpn-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
