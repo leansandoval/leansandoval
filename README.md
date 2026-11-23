@@ -13,6 +13,9 @@
     </a>
 </div>
 
+Ingeniero en Informática, actualmente trabajando como Desarrollador Full Stack.
+
+
 ## Tecnologias
 
 ### 📚 Frameworks, Platforms and Libraries
@@ -144,6 +147,4 @@
 
 ## Github Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leansandoval&theme=dark)](https://git.io/streak-stats)
-
-![GitHub Stats](https://ghstats.dev/api/card?username=leansandoval)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=vue-dark)
