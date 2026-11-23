@@ -2,7 +2,6 @@
 
 # Hola! Soy Leandro <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
 
-## Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrojuan1998@gmail.com)
 <div align="center">
     <a href="https://github.com/leansandoval" target="_blank">
@@ -148,3 +147,5 @@ Ingeniero en Informática, actualmente trabajando como Desarrollador Full Stack.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent)
+
+https://github-profile-trophy.vercel.app/?username=leansandoval&theme=nord
