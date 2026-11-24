@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <a href="mailto:leandrojuan1998@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/leandro-sandoval" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/leansandoval" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -12,8 +12,8 @@
   <a href="https://gitlab.com/leansandoval" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
-  <a href="https://www.linkedin.com/in/leandro-sandoval" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:leandrojuan1998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
