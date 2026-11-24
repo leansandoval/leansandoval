@@ -152,7 +152,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-trophies.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/leansandoval/leansandoval/main/github-trophies.svg" alt="GitHub Trophies" />
 </p>
 
 <div align="center">
