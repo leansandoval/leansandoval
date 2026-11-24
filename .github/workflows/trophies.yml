@@ -17,9 +17,13 @@ jobs:
       - name: Clean Existing Trophies File
         run: rm -rf ${{ github.workspace }}/github-trophies.svg
 
-      - name: Download Custom Trophies SVG
-        run: |
-          curl -s "https://github-profile-trophy-fork-two.vercel.app/?username=leansandoval&theme=darkhub&no-bg=true&column=5" -o ${{ github.workspace }}/github-trophies.svg
+      - name: Generate Trophies SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: leansandoval
+          output_path: ${{ github.workspace }}/github-trophies.svg
+          theme: darkhub
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
