@@ -1,0 +1,26 @@
+name: Update Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Se ejecuta automáticamente todos los días a medianoche
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      # Genera el SVG utilizando el CLI de trofeos/métricas
+      - name: Generate Trophies SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: leansandoval
+          output: trophies.svg
+
+      # Guarda y hace commit del SVG generado directamente en tu repo
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github trophies"
+          file_pattern: trophies.svg

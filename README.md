@@ -151,6 +151,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./trophies.svg" alt="GitHub Trophies" />
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leansandoval&color=yellowgreen&style=for-the-badge&label=VIEWS+%2F+VISITAS&abbreviated=true" alt="Profile Views" />
 </div>
