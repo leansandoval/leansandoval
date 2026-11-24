@@ -19,7 +19,15 @@
 
 </br>
 
-Software Engineer, currently working as a Full Stack Developer / Ingeniero en Informatica, actualmente trabajando como Desarrollador Full Stack.
+<p align="center">
+  <b>Software Engineer | Full Stack Developer</b><br />
+  <i>Ingeniero en Informática | Desarrollador Full Stack</i>
+</p>
+
+<p align="center">
+  Constantly learning and incorporating new technologies. Open to collaborating on new projects.<br />
+  En constante aprendizaje y sumando nuevas tecnologías. Abierto a colaborar en nuevos proyectos.
+</p>
 
 <h2>Top Skills / Habilidades principales</h2>
 
