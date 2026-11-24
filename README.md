@@ -29,7 +29,7 @@
   En constante aprendizaje y sumando nuevas tecnologías. Abierto a colaborar en nuevos proyectos.
 </p>
 
-<h2>Top Skills / Habilidades principales</h2>
+<h2>🛠️ Top Skills / Habilidades principales</h2>
 
 <table>
   <tr>
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-## Tech Stack / Stack Tecnológico
+## ⚙️ Tech Stack / Stack Tecnológico
 
 ### Languages
 
@@ -139,7 +139,7 @@
 ### IoT & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## GitHub Stats / Estadísticas de GitHub
+## 📊 GitHub Stats / Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent">
