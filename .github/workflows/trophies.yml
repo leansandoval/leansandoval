@@ -17,13 +17,19 @@ jobs:
       - name: Clean Existing Trophies File
         run: rm -rf ${{ github.workspace }}/github-trophies.svg
 
-      - name: Generate Trophies SVG
-        uses: ryo-ma/github-profile-trophy@master
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
         with:
-          username: leansandoval
-          output_path: ${{ github.workspace }}/github-trophies.svg
-          theme: darkhub
-          token: ${{ secrets.GITHUB_TOKEN }}
+          deno-version: v1.x
+
+      - name: Generate Trophies SVG (2 Rows & Transparent)
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git /tmp/trophy
+          sed -i 's/const maxColumn = -1;/const maxColumn = 5;/' /tmp/trophy/render_svg.ts
+          sed -i 's/const noBackground = false;/const noBackground = true;/' /tmp/trophy/render_svg.ts
+          deno run --allow-net --allow-env --allow-read --allow-write /tmp/trophy/render_svg.ts "leansandoval" "${{ github.workspace }}/github-trophies.svg" "darkhub"
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
