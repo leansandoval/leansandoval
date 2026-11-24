@@ -145,6 +145,10 @@ Software Engineer, currently working as a Full Stack Developer / Ingeniero en In
 
 ## GitHub Stats / Estadísticas de GitHub
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent)
+
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent">
     <img src="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="GitHub Stats" />
@@ -154,3 +158,18 @@ Software Engineer, currently working as a Full Stack Developer / Ingeniero en In
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent" height="165" alt="Top Languages" />
   </a>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
