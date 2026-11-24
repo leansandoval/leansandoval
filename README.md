@@ -52,7 +52,7 @@ Software Engineer, currently working as a Full Stack Developer / Ingeniero en In
   </tr>
 </table>
 
-## Tech Stack
+## Tech Stack / Stack Tecnológico
 
 ### Languages
 
