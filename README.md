@@ -150,3 +150,7 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent" height="165" alt="Top Languages" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leansandoval&color=yellowgreen&style=for-the-badge" alt="Profile Views" />
+</div>
