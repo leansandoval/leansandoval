@@ -13,19 +13,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Paso para eliminar cualquier archivo o directorio previo llamado trophies.svg
       - name: Clean existing trophies path
-        run: rm -rf trophies.svg
-      
+        run: rm -rf trophies.svg github-trophies.svg
+
       - name: Generate Trophies SVG
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: leansandoval
-          output_path: trophies.svg
+          output_path: github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update github trophies"
-          file_pattern: trophies.svg
+          file_pattern: github-trophies.svg
