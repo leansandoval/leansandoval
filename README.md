@@ -118,10 +118,8 @@ Software Engineer, currently working as a Full Stack Developer / Ingeniero en In
 
 ### Game Dev, Graphics & Design
 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-[![Godot Engine](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](#)
 ![nVIDIA](https://img.shields.io/badge/cuda-%23000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ![OpenGL](https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white) 
 
