@@ -11,16 +11,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Clean existing trophies path
-        run: rm -rf trophies.svg github-trophies.svg
+      - name: Clean Existing Trophies File
+        run: rm -rf ${{ github.workspace }}/github-trophies.svg
 
       - name: Generate Trophies SVG
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: leansandoval
-          output_path: github-trophies.svg
+          output_path: ${{ github.workspace }}/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
