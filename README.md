@@ -152,5 +152,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leansandoval&color=yellowgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=leansandoval&color=yellowgreen&style=for-the-badge&label=VIEWS+%2F+VISITAS&abbreviated=true" alt="Profile Views" />
 </div>
