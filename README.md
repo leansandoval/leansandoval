@@ -1,4 +1,6 @@
-![Header](./github-header-banner.png)
+<h1 align="center">
+  Hi there! I'm Leandro / Hola! Soy Leandro <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
+</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-sandoval" target="_blank">
