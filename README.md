@@ -142,9 +142,9 @@
 ## 📊 GitHub Stats / Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent">
-    <img src="https://github-stats-extended.vercel.app/api?username=leansandoval&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="GitHub Stats" />
-  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=leansandoval&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=leansandoval&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="GitHub Stats" />
+  </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=leansandoval&layout=compact&langs_count=6&theme=transparent" height="165" alt="Top Languages" />
