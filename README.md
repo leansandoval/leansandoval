@@ -64,7 +64,7 @@
   <summary><b>⚙️ Secondary & Explored Tech / Tecnologías Secundarias y Exploradas</b></summary>  
   <br />
 
-  > *Tecnologías, herramientas y entornos con los que he trabajado en proyectos puntuales, formación académica o aprendizaje autónomo.*
+  > *Technologies, tools, and environments used in specific projects, academic training, or self-directed learning. / Tecnologías, herramientas y entornos con los que he trabajado en proyectos puntuales, formación académica o aprendizaje autónomo.*
 
   ### Languages / Lenguajes
   
